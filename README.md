@@ -33,7 +33,7 @@ If you are on Windows, it's [potentially more complicated](https://stackoverflow
 ## Table of Contents
 
 1. Introduction
-2. A Crash Course in Python
+2. [A Crash Course in Python](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/crash_course_in_python.py)
 3. [Visualizing Data](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/visualization.py)
 4. [Linear Algebra](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/linear_algebra.py)
 5. [Statistics](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/statistics.py)
@@ -50,7 +50,7 @@ If you are on Windows, it's [potentially more complicated](https://stackoverflow
 16. [Logistic Regression](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/logistic_regression.py)
 17. [Decision Trees](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/decision_trees.py)
 18. [Neural Networks](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/neural_networks.py)
-19. [Deep Learning]
+19. [Deep Learning](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/deep_learning.py)
 20. [Clustering](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/clustering.py)
 21. [Natural Language Processing](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/nlp.py)
 22. [Network Analysis](https://github.com/bigdatavietnam-org/data-science-from-scratch/blob/master/scratch/network_analysis.py)
